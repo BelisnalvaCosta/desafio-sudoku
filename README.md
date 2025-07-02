@@ -1,5 +1,7 @@
 # desafio-sudoku
 
+Este link: https://github.com/BelisnalvaCosta/sudoku.git, referece ao Projeto feito na IDEA IntelliJ linguagem Java.
+
 # 🧩 Como Jogar o Sudoku Interativo [^1]
 
 ## 🎯 Objetivo do jogo:
@@ -67,4 +69,4 @@ Células cinza são fixas e não podem ser alteradas.
 
 Digite apenas números válidos e dentro do intervalo indicado
 
-[^1]: Desadio de projeto Sudoku - professor
+[^1]: Desadio de projeto Sudoku - professor José Luiz A. C.Junior (Bootc. Santader Java) 
