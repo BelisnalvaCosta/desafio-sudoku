@@ -69,4 +69,4 @@ Células cinza são fixas e não podem ser alteradas.
 
 Digite apenas números válidos e dentro do intervalo indicado
 
-[^1]: Desadio de projeto Sudoku - professor José Luiz A. C.Junior (Bootc. Santader Java) 
+[^1]: Desafio de projeto Sudoku - professor José Luiz A. C.Junior (Bootc. Santader Java) 
